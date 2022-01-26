@@ -11,4 +11,3 @@ Question 2: For this question you’ll need to use SQL. Follow this link(https:/
   b. What is the last name of the employee with the most orders?<br />
   c. What product was ordered the most by customers in Germany?
 
-[embed]https://leetcode.com/_warrior/[/embed]
